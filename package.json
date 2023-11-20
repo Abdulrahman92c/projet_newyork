@@ -4,7 +4,7 @@
   "description": "![Skyline de New York](/asset/n-y.jpg)",
   "main": "index.js",
   "scripts": {
-    "build": "babel --no-babelrc src -w -d js --preset=env"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Abdulrahman92c/projet_newyork/issues"
   },
-  "homepage": "https://github.com/Abdulrahman92c/projet_newyork#readme"
+  "homepage": "https://github.com/Abdulrahman92c/projet_newyork#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0"
+  }
 }
