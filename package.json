@@ -1,0 +1,19 @@
+{
+  "name": "projet_newyork",
+  "version": "1.0.0",
+  "description": "![Skyline de New York](/asset/n-y.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel --no-babelrc src -w -d js --preset=env"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abdulrahman92c/projet_newyork.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abdulrahman92c/projet_newyork/issues"
+  },
+  "homepage": "https://github.com/Abdulrahman92c/projet_newyork#readme"
+}
