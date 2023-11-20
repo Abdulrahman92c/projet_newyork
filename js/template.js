@@ -1,6 +1,4 @@
-
 export const Description = {
-
     image: "./asset/n-y.jpg",
     description: `New York est une ville composée de 5 arrondissements à l'embouchure du fleuve Hudson et de l'océan Atlantique. En son centre se trouve Manhattan, un arrondissement densément peuplé faisant partie des principaux centres commerciaux, financiers et culturels du monde. Ses sites incontournables comprennent des gratte-ciel comme l'Empire State Building et l'immense Central Park. Le théâtre de Broadway est situé sur Times Square`,
     Météo: `6°C, vent O à 6 km/h, 68 % d'humidité weather.com`,
