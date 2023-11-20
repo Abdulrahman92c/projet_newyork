@@ -7,3 +7,10 @@ export const Description = {
     Altitude: `10 m; Min. −8,2 m; Max. 124,9 m`,
     Coordonnées: `40° 42′ 51″ nord, 74° 00′ 21″ ouest `
 };
+
+const json = JSON.stringify(Description);
+console.log(json + "\n");
+
+for (let index in Description) {
+    console.log(index + " " + Description[index] + '\n');
+}
