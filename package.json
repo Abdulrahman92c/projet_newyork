@@ -4,7 +4,7 @@
   "description": "![Skyline de New York](/asset/n-y.jpg)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "babel --no-babelrc src -w -d js --preset=env"
   },
   "repository": {
     "type": "git",
