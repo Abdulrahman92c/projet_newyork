@@ -7,7 +7,7 @@ body{
     margin: 0;
     initial-letter: .1rem;
     line-height: 1.6;
-    background:linear-gradient(rgb(160, 154, 154), rgb(19, 117, 102));
+    background:linear-gradient(#fefeff, #58e7cb);
 }
 *{
     box-sizing: border-box;
