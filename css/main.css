@@ -29,12 +29,13 @@ button, a{
 header h1{
     text-align: center;
     font-weight: normal;
-    color: #fff;
+    color: #222;
     line-height: 7rem;
 }
 
 section{
     max-width: 80rem;
+    background-color: #fff;
     margin: 5rem auto;
     border: solid .1rem #ccc;
 }
@@ -46,8 +47,8 @@ section img{
 section h2{
     text-align: left;
     padding: 2rem;
-    background-color: #222;
-    color: #fff;
+    background-color: #fff;
+    color: #222;
     font-weight: normal;
 }
 section p{
